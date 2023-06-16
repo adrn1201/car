@@ -1,0 +1,16 @@
+{
+    "name": "@adrn1201/car",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@adrn1201"
+    },
+    "repository": "https://github.com/adrn1201/car.git",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
